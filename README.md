@@ -38,7 +38,6 @@ Shown left to right, top to bottom in filename order from `01` through `16`.
 - An Aether-generated dark palette for Omarchy v4
 - Sixteen 2880×1800 illustrated wallpapers
 - Disk-unlock and screensaver artwork
-- Passive theme assets only—no Lua, terminal configuration, or `vscode.json`
 
 Omarchy safely generates application and terminal configuration from
 `colors.toml` when the theme is installed.
