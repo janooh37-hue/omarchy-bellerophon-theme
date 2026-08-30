@@ -27,6 +27,12 @@ Cycle through the included wallpapers with:
 omarchy theme bg next
 ```
 
+## Wallpapers
+
+![All sixteen Bellerophon wallpapers](wallpapers-preview.webp)
+
+Shown left to right, top to bottom in filename order from `01` through `16`.
+
 ## Included
 
 - An Aether-generated dark palette for Omarchy v4
@@ -59,10 +65,6 @@ For archival, editing, or anyone who wants the exact lossless sources, download
 the [v1.0.0 lossless PNG master pack](https://github.com/janooh37-hue/omarchy-bellerophon-theme/releases/download/v1.0.0/bellerophon-wallpapers-lossless.zip).
 The large master pack is a separate release asset so routine theme installs
 remain fast.
-
-```text
-SHA-256: 81d2020803d649bf2f8093281a91206acb7254a8492171952f134215d90d7996
-```
 
 ## Optional plugins shown in the preview
 
