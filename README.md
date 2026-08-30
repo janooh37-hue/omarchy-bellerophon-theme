@@ -75,7 +75,7 @@ nor requires them.
 | --- | --- |
 | Floating Bar | [Charlieras262/omarchy-floating-bar](https://github.com/Charlieras262/omarchy-floating-bar) |
 | Network Devices | [intrepid-developer/omarchy-network-devices](https://github.com/intrepid-developer/omarchy-network-devices) |
-| YouTube Player | [brm-src/omarchy-youtube-player](https://github.com/brm-src/omarchy-youtube-player) |
+| YouTube Control Center | [janooh37-hue/omarchy-youtube-control-center](https://github.com/janooh37-hue/omarchy-youtube-control-center) |
 | System Stats | [harbefas/omarchy-system-stats](https://github.com/harbefas/omarchy-system-stats) |
 | Lock Style | [MrDemonc/Omarchy-lock-style](https://github.com/MrDemonc/Omarchy-lock-style) |
 | Keybindings | [meviusisback/keybinds-plugin](https://github.com/meviusisback/keybinds-plugin) |
