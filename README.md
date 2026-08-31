@@ -46,11 +46,12 @@ Omarchy safely generates application and terminal configuration from
 
 | Lock screen with clock | SDDM login preview |
 | --- | --- |
-| ![Bellerophon lock screen with clock and password field](screenshots/lock-screen.png) | ![Bellerophon SDDM login preview](screenshots/sddm-login.png) |
+| ![Bellerophon lock screen with clock and password field](screenshots/lock-screen.png) | ![Omarchy-branded SDDM login preview](screenshots/sddm-login.png) |
 
 The lock screen uses the optional
 [Lock Style](https://github.com/MrDemonc/Omarchy-lock-style) plugin. The SDDM
-image shows a matching local greeter. These companion surfaces are pictured for
+image shows a matching local greeter with an Omarchy wordmark rendered in the
+theme's Greek-inspired lettering. These companion surfaces are pictured for
 clarity; installing an Omarchy theme does not replace the system SDDM greeter.
 
 ## Wallpaper quality
